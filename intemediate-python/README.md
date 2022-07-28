@@ -1,0 +1,1 @@
+This repository is based on the [Intermediate Python Course and ](https://platzi.com/datos/) offered by [Platzi](https://platzi.com/home) and [Scientific Computing with Python course offered](https://www.freecodecamp.org/learn/scientific-computing-with-python/) by [FreeCodeCamp](https://www.freecodecamp.org/).
