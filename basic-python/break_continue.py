@@ -1,3 +1,5 @@
+# This code Shows the difference between the reserved words "break" and "continue"
+# In For and While loops
 def run():
     #Use break to exit a for loop
     print('break in for loop:')
