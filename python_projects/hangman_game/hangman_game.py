@@ -11,60 +11,37 @@ def get_word(language):
     return get_word.word
 
 def game_screen(word):
+    game_screen.letters = []
+    for letter in word:
+        game_screen.letters.append(letter)
+    game_screen.display = '___ ' * len(word)
+    if menu.chosen_l == 'es':
+        print((" "*20)+'You are playing in Spanish')
+    elif menu.chosen_l == 'en':
+        print((" "*20)+'You are playing in English')
+    print("\n")
     while True:
-        os.system('cls' if os.name == 'nt' else 'clear')
+        os.system("echo '{}' | lolcat".format((" "*20)+game_screen.display))
         print("\n")
-        print("The word is: ")
-        print(word)
-        print("\n")
-        print("You have {} tries left".format(variables.TRIES))
-        print("\n")
-        print("The letters you have guessed: ")
-        print(variables.GUESSED)
-        print("\n")
-        guess = input("Enter a letter: ")
-        if guess in variables.GUESSED:
-            print("You have already guessed that letter")
-            continue
-        elif guess in word:
-            variables.GUESSED.append(guess)
-            print("\n")
-            print("Correct")
-            print("\n")
-        else:
-            variables.TRIES -= 1
-            print("\n")
-            print("Incorrect")
-            print("\n")
-        if variables.TRIES == 0:
-            print("You lost")
-            break
-        if "*" not in variables.GUESSED:
-            print("You won")
-            break
-        if variables.TRIES > 0:
-            continue
-        else:
-            break
-    
+        break 
+    print(game_screen.letters)
         
-    
 
 #hangman game
 def hangman_game():
     title()
     os.system ("echo '{}' | lolcat".format(variables.SUBMENU))
     get_word(menu.chosen_l)
-    game_screen(get_word)
+    game_screen(get_word.word)
+    guess = input('Write a letter: ')
     
-
-    
-
-
-
-
-
-
+    already_guessed = []
+    if guess in get_word.word:
+        already_guessed.extend([guess])
+        index = get_word.word.find(guess) 
+        get_word.word = get_word.word[:index] + "_" + get_word.word[index + 1:]
+        game_screen.display = game_screen.display[:index] + guess + game_screen.display[index + 1:]
+        print(game_screen.display)
                 
 def title():
     os.system('cls' if os.name == 'nt' else 'clear')
