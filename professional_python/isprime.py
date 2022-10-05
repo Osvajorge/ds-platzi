@@ -8,7 +8,7 @@ def isprime(number: int):
         return True
     
 def run():
-    number = input("write a number: ")
+    number = input("write a number: ") #this error is intended to check run the program with this command:mypy isprime.py --check-untyped-defs
     print(isprime(number))
 
 if __name__=='__main__':
