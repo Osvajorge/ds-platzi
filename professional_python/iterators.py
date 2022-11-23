@@ -19,13 +19,13 @@ class FiboIter():
             self.aux = self.n1 + self.n2
             #self.n1 = self.n2
             #self.n2 = self.aux
-            self.n1, self.n2 = self.n2, self.aux
+            self.n1, self.n2 = self.n2, self.aux #swapping
             self.counter +=1 
             return self.aux
 
 
 if __name__ == '__main__':
-    fibonacci = FiboIter(100)
+    fibonacci = FiboIter()
     for element in fibonacci:
         print(element)
         time.sleep(0.02)
