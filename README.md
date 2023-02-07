@@ -26,4 +26,4 @@ In the future, I plan to expand the repository to include projects that use adva
 
 ## Conclusion
 
-This repository serves as a hub for my ongoing learning and growth in the field of Data Science and Artificial Intelligence. It is my hope that others can also benefit from the resources and projects contained within.
+This repository serves as a hub for my ongoing learning and growth in the field of Data Science and Artificial Intelligence. It is my hope that others can also benefit from the resources and projects contained within. 
