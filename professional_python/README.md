@@ -35,7 +35,7 @@ The repository includes the following files:
  
 All code in this repository is intended to serve as a reference and a starting point for your own projects. The Professional Python course is designed to help you master these advanced concepts in Python and apply them in your own work.
 
-In addition: 
+## In addition: 
 These two programs [palindrome.py](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/professional_python/palindrome.py) and [isprime.py](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/professional_python/isprime.py) were created with static typing and with errors in order to check through **mypy** how those errors actually occur.
 
 This is the original error in [palindrome.py](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/professional_python/palindrome.py)
