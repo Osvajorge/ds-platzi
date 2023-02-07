@@ -31,7 +31,7 @@ The `Functions` directory contains the following files:
 
 The `Loops` directory contains the following files:
 
-1.  [**break_continue.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/basic_python/loops/bigo_notation.txt): Examples of using break and continue statements in loops.
+1.  [**break_continue.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/basic_python/loops/break_continue.py): Examples of using break and continue statements in loops.
 2.  [**for.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/basic_python/loops/for.py): Examples of using for loops in Python.
 3.  [**iterate.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/basic_python/loops/iterate.py): Examples of iteration in Python.
 4.  [**loops.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/basic_python/loops/loops.py): Examples of different types of loops in Python.
