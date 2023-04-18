@@ -1,8 +1,3 @@
-
-# Professional Python
-
-This repository is a collection of Python code and examples based on the Intermediate Python Course [Intermediate Python course](https://platzi.com/cursos/python/) by Platzi and the [Scientific Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/) by FreecodeCamp. The repository includes the following topics:
-
 # Professional Python
 
 This repository is a collection of Python code and examples based on the professional Python Course [Intermediate Python course](https://platzi.com/cursos/python/) by Platzi and the [Scientific Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/) by FreecodeCamp. The repository includes the following topics:
