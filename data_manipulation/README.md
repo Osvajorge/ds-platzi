@@ -8,26 +8,26 @@ The notebooks cover a range of topics, from basic operations on arrays and data 
 ## Table of Contents
 
 The repository contains the following notebooks:
-- [**01_array.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/01_array.ipynb): Introduction to arrays in NumPy
-- [**02_data_types.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/02_data_types.ipynb): Overview of data types in Python and NumPy
-- [**03_dimensions.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/03_dimensions.ipynb): Working with dimensions in NumPy arrays
-- [**04_creating_arrays.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/04_creating_arrays.ipynb): Creating arrays in NumPy
-- [**05_shape_reshape.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/05_shape_reshape.ipynb): Reshaping arrays in NumPy
-- [**06_numpy_functions.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/06_numpy_functions.ipynb): Overview of NumPy functions
-- [**07_copy.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/07_copy.ipynb): Copying arrays in NumPy
-- [**08_conditions.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/08_conditions.ipynb): Conditional operations in NumPy
-- [**09_operations.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/09_operations.ipynb): Operations on NumPy arrays
-- [**10_series_dataFrames.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/10_series_dataFrames.ipynb): Introduction to Pandas Series and DataFrames
-- [**11_loc_iloc.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/11_loc_iloc.ipynb): Accessing data with `.loc` and `.iloc` in Pandas
-- [**12_add_eliminate.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/12_add_eliminate.ipynb): Adding and eliminating data in Pandas
-- [**13_null_data.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/13_null_data.ipynb): Handling null data in Pandas
-- [**14_conditions_filtering.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/14_conditions_filtering.ipynb): Conditional filtering in Pandas
-- [**15_pandas_functions.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/15_pandas_functions.ipynb): Overview of Pandas functions
-- [**16_groupby.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/16_groupby.ipynb): Grouping data with Pandas
-- [**17_merge_concat.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/17_merge_concat.ipynb): Merging and concatenating data with Pandas
-- [**18_join.ipynbs.py**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/18_join.ipynbs.ipynb):  Joining data with Pandas
-- [**19_pivot_table.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/19_pivot_table.ipynb): Creating pivot tables with Pandas
-- [**20_apply.ipynb**](https://github.com/Osvajorge/Data-Science-Platzi-Courses/blob/main/data_manipulation_with_python/20_apply.ipynb): Applying functions in Pandas
+- [**01_array.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/01_array.ipynb): Introduction to arrays in NumPy
+- [**02_data_types.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/02_data_types.ipynb): Overview of data types in Python and NumPy
+- [**03_dimensions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/03_dimensions.ipynb): Working with dimensions in NumPy arrays
+- [**04_creating_arrays.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/04_creating_arrays.ipynb): Creating arrays in NumPy
+- [**05_shape_reshape.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/05_shape_reshape.ipynb): Reshaping arrays in NumPy
+- [**06_numpy_functions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/06_numpy_functions.ipynb): Overview of NumPy functions
+- [**07_copy.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/07_copy.ipynb): Copying arrays in NumPy
+- [**08_conditions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/08_conditions.ipynb): Conditional operations in NumPy
+- [**09_operations.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/09_operations.ipynb): Operations on NumPy arrays
+- [**10_series_dataFrames.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/10_series_dataFrames.ipynb): Introduction to Pandas Series and DataFrames
+- [**11_loc_iloc.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/11_loc_iloc.ipynb): Accessing data with `.loc` and `.iloc` in Pandas
+- [**12_add_eliminate.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/12_add_eliminate.ipynb): Adding and eliminating data in Pandas
+- [**13_null_data.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/13_null_data.ipynb): Handling null data in Pandas
+- [**14_conditions_filtering.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/14_conditions_filtering.ipynb): Conditional filtering in Pandas
+- [**15_pandas_functions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/15_pandas_functions.ipynb): Overview of Pandas functions
+- [**16_groupby.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/16_groupby.ipynb): Grouping data with Pandas
+- [**17_merge_concat.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/17_merge_concat.ipynb): Merging and concatenating data with Pandas
+- [**18_join.ipynbs.py**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/18_join.ipynbs.ipynb):  Joining data with Pandas
+- [**19_pivot_table.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/19_pivot_table.ipynb): Creating pivot tables with Pandas
+- [**20_apply.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/20_apply.ipynb): Applying functions in Pandas
 
 
 Additionally, there is an `Init notebook.ipynb` file which introduces the libraries NumPy and Pandas and provides some basic examples.
