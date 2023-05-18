@@ -19,13 +19,13 @@ The `Data Types` directory contains the following files:
 
 The `Functions` directory contains the following files:
 
-1. [**bigo_notation.txt**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A detailed description of Big O complexity notation.
-2. [**file_reader.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): Examples of reading files in Python.
-3. [**guess_number.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A game for guessing a randomly generated number.
-4. [**isprime.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A function for checking if a number is prime.
-5. [**list_of_list**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A function that that receive a list of lists and return a list of unique elements.
-6.  [**lower.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A function for converting a string to lowercase.
-7.  [**password_generator.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/): A function for generating random passwords.
+1. [**bigo_notation.txt**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/bigo_notation.txt): A detailed description of Big O complexity notation.
+2. [**file_reader.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/file_reader.py): Examples of reading files in Python.
+3. [**guess_number.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/guess_number.py): A game for guessing a randomly generated number.
+4. [**isprime.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/isprime.py): A function for checking if a number is prime.
+5. [**list_of_list**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/list_of_lists.py): A function that that receive a list of lists and return a list of unique elements.
+6.  [**lower.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/lower.py): A function for converting a string to lowercase.
+7.  [**password_generator.py**](https://github.com/Osvajorge/ds-platzi/blob/main/basic_python/functions/password_generator.py): A function for generating random passwords.
 
 ## Loops
 
