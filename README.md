@@ -13,7 +13,7 @@ The repository is organized into folders based on the platzi path (I worked on u
 -   [Basic Python](https://github.com/Osvajorge/ds-platzi/tree/main/basic_python)
 -   [Intermediate Python](https://github.com/Osvajorge/ds-platzi/tree/main/intemediate_python)
 -   [Professional Python](https://github.com/Osvajorge/ds-platzi/tree/main/professional_python)
--   [Data manipulation with python](https://github.com/Osvajorge/ds-platzi/tree/main/data_manipulation)
+-   [Data manipulation with Python](https://github.com/Osvajorge/ds-platzi/tree/main/data_manipulation)
 
 The content within each folder will be updated regularly as new projects and exercises are completed.
 
