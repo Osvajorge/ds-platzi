@@ -10,7 +10,7 @@ The notebooks cover a range of topics, from basic operations on arrays and data 
 The repository contains the following notebooks:
 - [**01_array.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/01_array.ipynb): Introduction to arrays in NumPy
 - [**02_data_types.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/02_data_types.ipynb): Overview of data types in Python and NumPy
-- [**03_dimensions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/03_dimensions.ipynb): Working with dimensions in NumPy arrays
+- [**03_dimensions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/03_dimentions.ipynb): Working with dimensions in NumPy arrays
 - [**04_creating_arrays.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/04_creating_arrays.ipynb): Creating arrays in NumPy
 - [**05_shape_reshape.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/05_shape_reshape.ipynb): Reshaping arrays in NumPy
 - [**06_numpy_functions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/06_numpy_functions.ipynb): Overview of NumPy functions
@@ -25,7 +25,7 @@ The repository contains the following notebooks:
 - [**15_pandas_functions.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/15_pandas_functions.ipynb): Overview of Pandas functions
 - [**16_groupby.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/16_groupby.ipynb): Grouping data with Pandas
 - [**17_merge_concat.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/17_merge_concat.ipynb): Merging and concatenating data with Pandas
-- [**18_join.ipynbs.py**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/18_join.ipynbs.ipynb):  Joining data with Pandas
+- [**18_join.ipynbs.py**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/18_join.ipynb):  Joining data with Pandas
 - [**19_pivot_table.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/19_pivot_table.ipynb): Creating pivot tables with Pandas
 - [**20_apply.ipynb**](https://github.com/Osvajorge/ds-platzi/blob/main/data_manipulation/20_apply.ipynb): Applying functions in Pandas
 
